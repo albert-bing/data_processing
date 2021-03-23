@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/com/wt/channel_event/city_car.csv" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/com/wt/channel_event/city_car_day.csv" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/com/wt/channel_event/city_car_day_summer.csv" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/com/wt/channel_event/hangzhou.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/wt/channel_event/cvss/beijing.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/wt/channel_event/cvss/beijing.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/wt/channel_event/cvss/chengdu.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/wt/channel_event/cvss/chengdu.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/wt/channel_event/cvss/chongqing.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/wt/channel_event/cvss/chongqing.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/wt/channel_event/cvss/city_car.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/wt/channel_event/cvss/city_car.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/wt/channel_event/cvss/city_car_day.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/wt/channel_event/cvss/city_car_day.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/wt/channel_event/cvss/city_car_day_summer.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/wt/channel_event/cvss/city_car_day_summer.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/wt/channel_event/cvss/dongguan.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/wt/channel_event/cvss/hangzhou.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/wt/channel_event/cvss/hangzhou.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/wt/channel_event/dongguan.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/wt/channel_event/haerbin.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/wt/channel_event/lasa.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/wt/channel_event/shanghai.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/wt/channel_event/shangsha.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/wt/channel_event/wulumuqi.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/wt/channel_event/xining.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/com/wt/channel_event/zhengzhou.csv" charset="GBK" />
   </component>
 </project>
